@@ -105,11 +105,3 @@ The script includes error handling for the following scenarios:
 - The script exits with a unique code for each outcome (win, draw, error) to indicate the result.
 
 
-
----
-
-Please create a new file called `README.md` in your GitHub repository and paste the above content into it. Make sure to replace `[moves_file]` with the actual filename and update any other necessary details.
-
-Remember to include the script file `tic_tac_toe.sh` and the `LICENSE` file along with the README file in your GitHub repository.
-
-If you have any further questions, feel free to ask!
