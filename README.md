@@ -104,9 +104,7 @@ The script includes error handling for the following scenarios:
 - The game board file is named `final_pattern` and is created in the same directory as the script. The file is overwritten for each new game.
 - The script exits with a unique code for each outcome (win, draw, error) to indicate the result.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
